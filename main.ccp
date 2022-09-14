@@ -22,5 +22,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    std::cout << "En vagyok a contributor" << std::endl; //Contributor sor hozzaadasa
     return 0;
 }
